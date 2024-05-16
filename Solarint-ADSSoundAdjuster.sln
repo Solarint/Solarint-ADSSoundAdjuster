@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solarint-ADSSoundAdjuster", "Solarint-ADSSoundAdjuster.csproj", "{A4C5D88B-C688-47A7-8531-9003BF3ABFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		3.8.0|Any CPU = 3.8.0|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4C5D88B-C688-47A7-8531-9003BF3ABFEC}.3.8.0|Any CPU.ActiveCfg = 3.8.0|Any CPU
+		{A4C5D88B-C688-47A7-8531-9003BF3ABFEC}.3.8.0|Any CPU.Build.0 = 3.8.0|Any CPU
+		{A4C5D88B-C688-47A7-8531-9003BF3ABFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C5D88B-C688-47A7-8531-9003BF3ABFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C5D88B-C688-47A7-8531-9003BF3ABFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C5D88B-C688-47A7-8531-9003BF3ABFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A7ABE4B-A136-47DC-8A0C-48D84809008D}
+	EndGlobalSection
+EndGlobal
